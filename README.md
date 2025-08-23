@@ -37,7 +37,7 @@ lib/
  ├── bmi_nurse.dart       # BMI Nurse screen
  ├── settings.dart        # Settings (Theme + Language)
  └── about_us.dart        # About the app
-
+```
 
 ---
 
