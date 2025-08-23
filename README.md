@@ -29,13 +29,13 @@ The app helps users calculate their BMI, understand the BMI categories, and get 
 
 ## 📂 Project Structure
 lib/
-├── main.dart # Entry point
-├── home_screen.dart # Home screen with Drawer
-├── bmi_calculator.dart # BMI Calculator screen
-├── bmi_range.dart # BMI Ranges screen
-├── bmi_nurse.dart # BMI Nurse screen
-├── settings.dart # Settings (Theme + Language)
-└── about_us.dart # About the app
+-├── main.dart # Entry point
+-├── home_screen.dart # Home screen with Drawer
+-├── bmi_calculator.dart # BMI Calculator screen
+-├── bmi_range.dart # BMI Ranges screen
+-├── bmi_nurse.dart # BMI Nurse screen
+-├── settings.dart # Settings (Theme + Language)
+-└── about_us.dart # About the app
 
 ---
 
