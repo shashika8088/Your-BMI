@@ -50,7 +50,7 @@ lib/
 ### Installation
 ```bash
 # Clone the repo
-git clone https://github.com/shashika8088/bmi_calculator.git
+git clone https://github.com/shashika8088/Your-BMI
 
 # Move into the project
 cd bmi_calculator
